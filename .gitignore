@@ -1,6 +1,4 @@
-
-# .v4p backup files
-*~.xml
-
-# Dynamic plugins .dll
-bin/
+node_modules
+git add
+git commit -a -m "version1"
+git push origin master 
